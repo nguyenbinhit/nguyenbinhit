@@ -2,8 +2,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenbinhit&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&layout=compact&langs_count=10)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nguyenbinhit)](https://github.com/anuraghazra/github-readme-stats)
-
 ## How to reach me:
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=Facebook&logoColor=white)](https://facebook.com/nguyenbinhltv)
 [![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](nguyenbinhltv@gmail.com)
