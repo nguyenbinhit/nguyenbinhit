@@ -2,7 +2,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenbinhit&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&layout=compact&langs_count=10)
 
-## How to reach me:
+## Contact me:
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=Facebook&logoColor=white)](https://facebook.com/nguyenbinhltv)
 [![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](nguyenbinhltv@gmail.com)
 [![Messenger](https://img.shields.io/badge/Messenger-00B2FF?logo=messenger&logoColor=white)](https://facebook.com/nguyenbinhltv)
