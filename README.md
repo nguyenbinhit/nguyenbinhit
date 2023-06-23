@@ -28,3 +28,4 @@
 [![Messenger](https://img.shields.io/badge/Messenger-00B2FF?logo=messenger&logoColor=white)](https://facebook.com/nguyenbinhltv)
 [![Github](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/nguyenbinhit)
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?logo=github&logoColor=white)](https://github.com/nguyenbinhit)
+[![YouTobe](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@BinhNguyen-dev)
