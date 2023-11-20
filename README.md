@@ -17,10 +17,13 @@
 ![LARAVEL](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white)
 ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
-![AMAZON AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
 ![Dreamweaver](https://aleen42.github.io/badges/src/dreamweaver.svg)
 ![Premiere](https://aleen42.github.io/badges/src/premiere.svg)
+
+## Cloud
+![AMAZON AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)
 
 ## Where to find me
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=Facebook&logoColor=white)](https://facebook.com/nguyenbinhltv)
